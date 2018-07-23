@@ -1,0 +1,29 @@
+{
+  "name": "perfect-webpack-cli",
+  "version": "0.0.4",
+  "description": "perfect-webpack-cli",
+  "main": "index.js",
+  "keywords": [
+    "webpack4",
+    "webpack",
+    "humorHan",
+    "webpack-cli"
+  ],
+  "bin": {
+    "perfect-webpack": "./bin/www.js"
+  },
+  "author": "humorHan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "download-git-repo": "^1.0.2",
+    "inquirer": "^6.0.0",
+    "ora": "^3.0.0",
+    "webpack": "^4.16.1",
+    "yargs": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humorHan/perfect-webpack-cli"
+  }
+}
