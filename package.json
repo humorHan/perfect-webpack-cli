@@ -1,6 +1,6 @@
 {
   "name": "perfect-webpack-cli",
-  "version": "0.0.4",
+  "version": "0.0.4-alpha-1",
   "description": "perfect-webpack-cli",
   "main": "index.js",
   "keywords": [
